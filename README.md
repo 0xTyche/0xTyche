@@ -8,7 +8,6 @@ Learning and building, one day at a time.
 ### Recent Repos
 
 <!-- REPOS:START -->
-- [**0xTyche.github.io**](https://github.com/0xTyche/0xTyche.github.io)
 - [**arc-cds**](https://github.com/0xTyche/arc-cds)
 - [**tfm-algorithm-benchmark**](https://github.com/0xTyche/tfm-algorithm-benchmark) — A standardized and reproducible benchmark for Traction Force Microscopy (TFM) algorithms.
 - [**openclaw-skill-polymarket-quant**](https://github.com/0xTyche/openclaw-skill-polymarket-quant) — OpenClaw Skill for quantitative factor discovery and backtesting on Polymarket prediction markets.  Real-time OHLCV processing, factor engineering, and realistic orderbook simulation.
