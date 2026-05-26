@@ -39,7 +39,7 @@ async function fetchRepos() {
     `https://api.github.com/users/${GITHUB_USERNAME}/repos?sort=updated&per_page=6&type=public`
   );
   return repos
-    .filter(r => !r.fork && r.name !== GITHUB_USERNAME)
+    .filter(r => !r.fork && r.name !== GITHUB_USERNAME && r.name !== '0xTyche.github.io')
     .slice(0, 5)
     .map(r => {
       const desc = r.description ? ` — ${r.description}` : '';
