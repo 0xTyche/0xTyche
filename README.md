@@ -3,6 +3,8 @@
 Debug the markets. Optimize the code. Repeat.
 [→ Github page Notes & Blog](https://0xtyche.github.io)
 
+| Mathematics • Machine Learning • Quantitative Finance • Blockchain
+
 ---
 
 ### Recent Repos
