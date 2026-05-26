@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        run: git clone https://github.com/0xTyche/0xTyche.git .
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
