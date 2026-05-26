@@ -20,12 +20,12 @@ Learning and building, one day at a time.
 ### Recent Notes
 
 <!-- NOTES:START -->
-`2026-05-26` **Update portfolio with new project**
-`2026-05-26` **Plan April goals**
-`2026-05-26` **Buy new running shoes** · `math`
-`2026-05-26` **Call family this weekend**
-`2026-05-26` **Research index fund options** · `Finance`
-`2026-05-26` **Set up auto savings transfer** · `Finance`
-`2026-05-26` **Cancel unused subscriptions** · `Finance`
-`2026-05-26` **Watch Python tutorial - Part 1**
+- `2026-05-26` **Update portfolio with new project**
+- `2026-05-26` **Plan April goals**
+- `2026-05-26` **Buy new running shoes** · `math`
+- `2026-05-26` **Call family this weekend**
+- `2026-05-26` **Research index fund options** · `Finance`
+- `2026-05-26` **Set up auto savings transfer** · `Finance`
+- `2026-05-26` **Cancel unused subscriptions** · `Finance`
+- `2026-05-26` **Watch Python tutorial - Part 1**
 <!-- NOTES:END -->
