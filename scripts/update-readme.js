@@ -67,7 +67,7 @@ async function fetchNotes() {
       const date =
         props['Last Date']?.date?.start || page.created_time.split('T')[0];
       const tag = classification ? ` · \`${classification}\`` : '';
-      return `\`${date}\` **${task}**${tag}`;
+      return `- \`${date}\` **${task}**${tag}`;
     })
     .join('\n');
 }
