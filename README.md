@@ -1,7 +1,7 @@
 # 0xTyche
 
 Learning and building, one day at a time.  
-[→ Notes & Blog](https://0xtyche.github.io)
+[→ Github page Notes & Blog](https://0xtyche.github.io)
 
 ---
 
