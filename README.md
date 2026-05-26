@@ -1,6 +1,6 @@
 # 0xTyche
 
-Learning and building, one day at a time.  
+Debug the markets. Optimize the code. Repeat.
 [→ Github page Notes & Blog](https://0xtyche.github.io)
 
 ---
