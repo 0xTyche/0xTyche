@@ -21,5 +21,6 @@ Debug the markets. Optimize the code. Repeat.
 ### Recent Notes
 
 <!-- NOTES:START -->
+- `2026-05-27` **Attention is all you need 复习** · `machine learning`
 - `2026-05-26` **「韬（τ）定律」的简单了解及其产业链相关企业** · `Finance`
 <!-- NOTES:END -->
