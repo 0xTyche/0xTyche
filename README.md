@@ -21,6 +21,7 @@ Debug the markets. Optimize the code. Repeat.
 ### Recent Notes
 
 <!-- NOTES:START -->
+- `2026-06-04` **MSTR、STRC 20260604 个人研究报告** · `Finance`
 - `2026-06-02` **Four patterns of mispricing in binary option markets**
 - `2026-05-30` **Adverse Selection and Liquidity Provision** · `Quant`
 - `2026-05-27` **Attention is all you need 复习** · `machine learning`
