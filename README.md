@@ -10,9 +10,9 @@ Debug the markets. Optimize the code. Repeat.
 ### Recent Repos
 
 <!-- REPOS:START -->
+- [**Aether**](https://github.com/0xTyche/Aether) — A real-time map of how macro events move global markets.  When a central bank moves, a geopolitical event breaks, or economic data prints, Aether visualizes which assets are affected, where, and by how much — within seconds.
 - [**tfm-algorithm-benchmark**](https://github.com/0xTyche/tfm-algorithm-benchmark) — A standardized and reproducible benchmark for Traction Force Microscopy (TFM) algorithms.
 - [**arc-cds**](https://github.com/0xTyche/arc-cds) — On-chain credit default swap protocol built natively on Circle's Arc L1. Single-name CDS, credit indices, bonding-curve issuance, and structured credit strategies — all settled in USDC with sub-second deterministic finality.
-- [**Aether**](https://github.com/0xTyche/Aether) — A real-time map of how macro events move global markets.  When a central bank moves, a geopolitical event breaks, or economic data prints, Aether visualizes which assets are affected, where, and by how much — within seconds.
 - [**openclaw-skill-polymarket-quant**](https://github.com/0xTyche/openclaw-skill-polymarket-quant) — OpenClaw Skill for quantitative factor discovery and backtesting on Polymarket prediction markets.  Real-time OHLCV processing, factor engineering, and realistic orderbook simulation.
 <!-- REPOS:END -->
 
