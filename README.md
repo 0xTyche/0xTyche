@@ -21,6 +21,7 @@ Debug the markets. Optimize the code. Repeat.
 ### Recent Notes
 
 <!-- NOTES:START -->
+- `2026-06-19` **Polymarket-v1 Database Paper 的VPIN 研究**
 - `2026-06-05` **ZEC 漏洞事件学习记录**
 - `2026-06-04` **MSTR、STRC 20260604 个人研究报告** · `Finance`
 - `2026-06-02` **Four patterns of mispricing in binary option markets**
