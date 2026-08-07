@@ -21,6 +21,7 @@ Debug the markets. Optimize the code. Repeat.
 ### Recent Notes
 
 <!-- NOTES:START -->
+- `2026-08-06` **USD/JPY 20260806 突破158：一次"被市场检验的联合干预"** · `Finance`
 - `2026-08-04` **贝莱德联手摩根大通 Kinexys，ICS 货币基金欧洲份额上链（2026-08-04）** · `news analyst`
 - `2026-06-19` **Polymarket-v1 Database Paper 的VPIN 研究**
 - `2026-06-05` **ZEC 漏洞事件学习记录**
@@ -28,5 +29,4 @@ Debug the markets. Optimize the code. Repeat.
 - `2026-06-02` **Four patterns of mispricing in binary option markets**
 - `2026-05-30` **Adverse Selection and Liquidity Provision** · `Quant`
 - `2026-05-27` **Attention is all you need 复习** · `machine learning`
-- `2026-05-26` **「韬（τ）定律」的简单了解及其产业链相关企业** · `Finance`
 <!-- NOTES:END -->
