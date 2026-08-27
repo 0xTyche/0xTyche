@@ -20,6 +20,7 @@ Debug the markets. Optimize the code. Repeat.
 ### Recent Notes
 
 <!-- NOTES:START -->
+- `2026-08-27` **有意思的 gas 优化技术** · `crypto`
 - `2026-08-20` **wintermute-challenge-2026 题解** · `crypto`
 - `2026-08-06` **USD/JPY 20260806 突破158：一次"被市场检验的联合干预"** · `Finance`
 - `2026-08-04` **贝莱德联手摩根大通 Kinexys，ICS 货币基金欧洲份额上链（2026-08-04）** · `news analyst`
@@ -27,5 +28,4 @@ Debug the markets. Optimize the code. Repeat.
 - `2026-06-05` **ZEC 漏洞事件学习记录**
 - `2026-06-04` **MSTR、STRC 20260604 个人研究报告** · `Finance`
 - `2026-06-02` **Four patterns of mispricing in binary option markets**
-- `2026-05-30` **Adverse Selection and Liquidity Provision** · `Quant`
 <!-- NOTES:END -->
