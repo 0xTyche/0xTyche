@@ -12,7 +12,6 @@ Debug the markets. Optimize the code. Repeat.
 <!-- REPOS:START -->
 - [**Aether**](https://github.com/0xTyche/Aether) — A real-time map of how macro events move global markets.  When a central bank moves, a geopolitical event breaks, or economic data prints, Aether visualizes which assets are affected, where, and by how much — within seconds. ⭐ 1
 - [**tfm-algorithm-benchmark**](https://github.com/0xTyche/tfm-algorithm-benchmark) — A standardized and reproducible benchmark for Traction Force Microscopy (TFM) algorithms. ⭐ 1
-- [**arc-cds**](https://github.com/0xTyche/arc-cds) — On-chain credit default swap protocol built natively on Circle's Arc L1. Single-name CDS, credit indices, bonding-curve issuance, and structured credit strategies — all settled in USDC with sub-second deterministic finality.
 <!-- REPOS:END -->
 
 ---
